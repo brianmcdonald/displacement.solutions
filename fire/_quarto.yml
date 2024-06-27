@@ -1,0 +1,25 @@
+project:
+  type: website
+  output-dir: ../docs/fire
+  render:
+    - "*.qmd"
+
+website:
+  title: "Fire Risk"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - resources.qmd
+      - analysis.qmd
+
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+
+

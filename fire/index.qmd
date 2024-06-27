@@ -1,0 +1,19 @@
+---
+title: "Fire Risk"
+---
+
+This is the Fire Risk site
+
+It's just a zero draft for now.
+
+# Header 1
+
+Lorem ipsum
+
+
+## Header 2
+
+Lorem ipsum.
+
+### Header 3
+Lorem ipsum
