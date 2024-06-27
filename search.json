@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "fire/resources.html",
+    "href": "fire/resources.html",
+    "title": "Resources",
+    "section": "",
+    "text": "Resources\nFire Risk related files and links will go here."
+  },
+  {
+    "objectID": "fire/analysis.html",
+    "href": "fire/analysis.html",
+    "title": "Analysis",
+    "section": "",
+    "text": "into text\n\n\n\n\nPut the seasonal fire weather trends here\n\n\n\nSomething about site level fire weather forecasting and notifications\n\n\n\n\nWebmap showing FIRMS fire incedents in 2024 with an overlay of IDP sites.\nAnalysis of projected changes in the number of days with temperatures over X degrees, for IDP sites, illustrating how climate chanfge is exacerbating fire risk.\n\n\n\nAnalysis of site suceptability will go here"
+  },
+  {
+    "objectID": "fire/analysis.html#forecasting",
+    "href": "fire/analysis.html#forecasting",
+    "title": "Analysis",
+    "section": "",
+    "text": "Put the seasonal fire weather trends here\n\n\n\nSomething about site level fire weather forecasting and notifications"
+  },
+  {
+    "objectID": "fire/analysis.html#fire-and-climate-change",
+    "href": "fire/analysis.html#fire-and-climate-change",
+    "title": "Analysis",
+    "section": "",
+    "text": "Webmap showing FIRMS fire incedents in 2024 with an overlay of IDP sites.\nAnalysis of projected changes in the number of days with temperatures over X degrees, for IDP sites, illustrating how climate chanfge is exacerbating fire risk."
+  },
+  {
+    "objectID": "fire/analysis.html#site-suceptability",
+    "href": "fire/analysis.html#site-suceptability",
+    "title": "Analysis",
+    "section": "",
+    "text": "Analysis of site suceptability will go here"
+  },
+  {
+    "objectID": "fire/about.html",
+    "href": "fire/about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "fire/index.html",
+    "href": "fire/index.html",
+    "title": "Fire Risk",
+    "section": "",
+    "text": "This is the Fire Risk site\nIt’s just a zero draft for now."
+  },
+  {
+    "objectID": "fire/index.html#header-2",
+    "href": "fire/index.html#header-2",
+    "title": "Fire Risk",
+    "section": "Header 2",
+    "text": "Header 2\nLorem ipsum.\n\nHeader 3\nLorem ipsum"
+  }
+]
