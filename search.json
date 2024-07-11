@@ -1,5 +1,19 @@
 [
   {
+    "objectID": "fire/index.html",
+    "href": "fire/index.html",
+    "title": "Fire Risk",
+    "section": "",
+    "text": "This is the Fire Risk site\nIt’s just a zero draft for now."
+  },
+  {
+    "objectID": "fire/index.html#header-2",
+    "href": "fire/index.html#header-2",
+    "title": "Fire Risk",
+    "section": "Header 2",
+    "text": "Header 2\nLorem ipsum.\n\nHeader 3\nLorem ipsum\n\nHeader 4\nLorem ipsum"
+  },
+  {
     "objectID": "fire/resources.html",
     "href": "fire/resources.html",
     "title": "Resources",
@@ -40,19 +54,5 @@
     "title": "About",
     "section": "",
     "text": "About this site"
-  },
-  {
-    "objectID": "fire/index.html",
-    "href": "fire/index.html",
-    "title": "Fire Risk",
-    "section": "",
-    "text": "This is the Fire Risk site\nIt’s just a zero draft for now."
-  },
-  {
-    "objectID": "fire/index.html#header-2",
-    "href": "fire/index.html#header-2",
-    "title": "Fire Risk",
-    "section": "Header 2",
-    "text": "Header 2\nLorem ipsum.\n\nHeader 3\nLorem ipsum\n\nHeader 4\nLorem ipsum"
   }
 ]
