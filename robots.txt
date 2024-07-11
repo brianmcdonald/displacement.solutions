@@ -1,1 +1,1 @@
-Sitemap: https://brianmcdonald.github.io/displacement.solutions/sitemap.xml
+Sitemap: https://displacement.solutions/sitemap.xml
