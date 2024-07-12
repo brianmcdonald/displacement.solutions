@@ -9,8 +9,6 @@ website:
   title: "Fire Risk"
   navbar:
     left:
-      - href: fire/index.qmd
-        text: Home
       - href: fire/about.qmd
         text: About
       - href: fire/resources.qmd
