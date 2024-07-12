@@ -2,6 +2,8 @@ project:
   type: website
   render:
     - "*.qmd"
+  resources:
+    - CNAME
 
 website:
   title: "Fire Risk"
