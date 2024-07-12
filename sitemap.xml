@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://displacement.solutions/fire/index.html</loc>
-    <lastmod>2024-07-11T10:27:25.877Z</lastmod>
-  </url>
-  <url>
-    <loc>https://displacement.solutions/fire/resources.html</loc>
-    <lastmod>2024-07-11T10:27:25.877Z</lastmod>
-  </url>
-  <url>
     <loc>https://displacement.solutions/fire/analysis.html</loc>
-    <lastmod>2024-07-11T10:27:25.877Z</lastmod>
+    <lastmod>2024-07-12T09:02:47.253Z</lastmod>
   </url>
   <url>
     <loc>https://displacement.solutions/fire/about.html</loc>
-    <lastmod>2024-07-11T10:27:25.877Z</lastmod>
+    <lastmod>2024-07-12T09:02:47.253Z</lastmod>
+  </url>
+  <url>
+    <loc>https://displacement.solutions/fire/resources.html</loc>
+    <lastmod>2024-07-12T09:02:47.253Z</lastmod>
+  </url>
+  <url>
+    <loc>https://displacement.solutions/fire/index.html</loc>
+    <lastmod>2024-07-12T09:02:47.253Z</lastmod>
   </url>
 </urlset>
