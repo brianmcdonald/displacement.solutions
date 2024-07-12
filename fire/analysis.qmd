@@ -1,21 +1,32 @@
 # Analysis
 
-into text
+into text..
+
+{{< lipsum 1 >}}
 
 ## Forecasting
 
 ### Seasonal Fire Weather Patterns
 Put the seasonal fire weather trends here
+{{< placeholder 400 200 format=svg >}}
 
 ### Fire Weather Warnings
-Something about site level fire weather forecasting and notifications
+Something about site level fire weather forecasting and notifications.
+
+{{< lipsum 1 >}}
 
 ## Fire and Climate Change
 
 Webmap showing FIRMS fire incedents in 2024 with an overlay of IDP sites.
+{{< placeholder 400 200 format=svg >}}
 
 Analysis of projected changes in the number of days with temperatures over X degrees, for IDP sites, illustrating how climate chanfge is exacerbating fire risk.
+{{< placeholder 400 200 format=svg >}}
+
+{{< lipsum 1 >}}
 
 ## Site suceptability
 
-Analysis of site suceptability will go here
+Analysis of site suceptability will go here.
+
+{{< lipsum 1 >}}
