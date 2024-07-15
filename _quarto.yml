@@ -16,7 +16,6 @@ website:
       - href: fire/analysis.qmd
         text: Analysis
 
-
 format:
   html:
     theme: superhero
