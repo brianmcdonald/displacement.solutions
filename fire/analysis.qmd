@@ -21,7 +21,8 @@ Webmap showing FIRMS fire incedents in 2024 with an overlay of IDP sites.
 {{< placeholder 400 200 format=svg >}}
 
 Analysis of projected changes in the number of days with temperatures over X degrees, for IDP sites, illustrating how climate chanfge is exacerbating fire risk.
-![heat index chart](./images/projected-number-of-days.png) ![heat index calendar](./images/projected-number-of-days-2.png)
+[![heat index chart](./images/projected-number-of-days.png){width=400}](./images/projected-number-of-days.png)
+![heat index calendar](./images/projected-number-of-days-2.png){width=400}
 
 
 {{< lipsum 1 >}}
