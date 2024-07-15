@@ -24,9 +24,9 @@ into text..
 
 *Explain the components of the fire weather index, show how they link to climate change forcast models for temperature and precipitation. A quantifiable FWI would require a full academic study, but the below charts and data from the [World Bank](https://climateknowledgeportal.worldbank.org/country/nigeria/climate-data-projections) we can start to show the connections, for some example countries* 
 
-[![Nigeria heat index chart](./images/projected-number-of-days.png){width=400}]\(./images/projected-number-of-days.png)
+[![Nigeria heat index chart](./images/projected-number-of-days.png){width=400}](./images/projected-number-of-days.png)
 
-[![Nigeria heat index calendar](./images/projected-number-of-days-2.png){width=400}\](./images/projected-number-of-days2.png)
+[![Nigeria heat index calendar](./images/projected-number-of-days-2.png){width=400}](./images/projected-number-of-days2.png)
 
 
 {{< lipsum 1 >}}
