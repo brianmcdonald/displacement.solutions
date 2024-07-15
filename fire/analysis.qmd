@@ -7,28 +7,32 @@ into text..
 ## Forecasting
 
 ### Seasonal Fire Weather Patterns
-Put the seasonal fire weather trends here
+*Put the seasonal fire weather trends here*
 {{< placeholder 400 200 format=svg >}}
 
 ### Fire Weather Warnings
-Something about site level fire weather forecasting and notifications.
+*Add something about site level fire weather forecasting and notifications.*
 
 {{< lipsum 1 >}}
 
 ## Fire and Climate Change
 
-Webmap showing FIRMS fire incedents in 2024 with an overlay of IDP sites.
+*Webmap showing FIRMS fire incedents in 2024 with an overlay of IDP sites.*
 {{< placeholder 400 200 format=svg >}}
 
-Analysis of projected changes in the number of days with temperatures over X degrees, for IDP sites, illustrating how climate chanfge is exacerbating fire risk.
-[![heat index chart](./images/projected-number-of-days.png){width=400}](./images/projected-number-of-days.png)
-![heat index calendar](./images/projected-number-of-days-2.png){width=400}
+*Analysis of projected changes in the number of days with temperatures over X degrees, for IDP sites, illustrating how climate change is exacerbating fire risk.*
+
+*Explain the components of the fire weather index, show how they link to climate change forcast models for temperature and precipitation. A quantifiable FWI would require a full academic study, but the below charts and data from the [World Bank](https://climateknowledgeportal.worldbank.org/country/nigeria/climate-data-projections) we can start to show the connections, for some example countries* 
+
+[![Nigeria heat index chart](./images/projected-number-of-days.png)\{width=400}](./images/projected-number-of-days.png)
+
+[![Nigeria heat index calendar](./images/projected-number-of-days-2.png)\{width=400}](./images/projected-number-of-days2.png)
 
 
 {{< lipsum 1 >}}
 
 ## Site suceptability
 
-Analysis of site suceptability will go here.
+*Analysis of site suceptability will go here.*
 
 {{< lipsum 1 >}}
